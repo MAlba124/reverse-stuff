@@ -1,3 +1,6 @@
+# Challange from:
+# https://crackmes.one/crackme/60c24a7133c5d410b8842d3c
+
 from random import choice, randint
 
 chars: str = "abcdefghijklmnopqrstuvwxyz"
